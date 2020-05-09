@@ -1,0 +1,14 @@
+{
+  "name": "node-jwt",
+  "version": "0.0.0",
+  "scripts": {},
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.13",
+    "morgan": "^1.10.0"
+  }
+}
